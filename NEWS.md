@@ -1,3 +1,11 @@
+# passt 0.1.3
+
+* add rmarkdown to suggests field
+
+# passt 0.1.2
+
+* fixed url for Winkler dissertation
+
 # passt 0.1.1
 
 * fix problem in *calc_output_sum* which occurs because the behavior of the 

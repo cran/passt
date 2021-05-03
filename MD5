@@ -1,13 +1,13 @@
-bb785aa50efd8057c698827a4df11b45 *DESCRIPTION
+3ead8aaf89d517c51ee76a4c705c816c *DESCRIPTION
 94e5341bae41a73709473b0296ac5a09 *NAMESPACE
-ba45ece59abb7ce82fbecd93c2c972dc *NEWS.md
+ee0a840cadb783b6b7081ede2ecc581d *NEWS.md
 16dd2cb79b2c70596df3e41b8c88e218 *R/passt-package.R
 6046b25e9ab9319e40ca4006887543e6 *R/passt.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
-46872496538e47259e489ca5331e01c0 *build/vignette.rds
+f0163c954b3c87a83a9257aa20e77a20 *build/vignette.rds
 75d906748bcf1427d17c1986d282bf24 *inst/doc/passt.R
 94ff71e424ada12840a18b351f7a13ef *inst/doc/passt.Rmd
-4cd355d19b6b4b04cfa1d9266cd3b941 *inst/doc/passt.html
+63c7c44e7c20de08a251897a26f20a93 *inst/doc/passt.html
 b9a671c511e09f89338dcc9562280bff *man/passt-package.Rd
 4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
 802254161bff365a965648957de59a9e *man/run_exp.Rd
@@ -18,5 +18,5 @@ f939127edceaadc61950d93c89b9083c *man/run_sim.Rd
 76b500f6e31ffcbde794f664dcd93fc6 *tests/testthat/test-helper_functions.R
 694fe84296e22fb31208aae26063d64f *tests/testthat/test-simulation.R
 e3e94c49f63bb4c77eaaf7ed71787629 *vignettes/apa.csl
-d2303852817cb72638fa4ad96b03bc07 *vignettes/library.bib
+96155192e0ba76f91e2b7b6530fee738 *vignettes/library.bib
 94ff71e424ada12840a18b351f7a13ef *vignettes/passt.Rmd
